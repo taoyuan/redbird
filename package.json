@@ -28,6 +28,7 @@
     "dolphin": "*",
     "http-proxy": "^1.14.0",
     "le-challenge-fs": "^2.0.4",
+    "le-sni-auto": "^2.1.0",
     "le-store-certbot": "^2.0.3",
     "letsencrypt": "^2.1.6",
     "localhost.daplie.com-certificates": "^1.2.3",
